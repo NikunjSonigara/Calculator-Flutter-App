@@ -4,9 +4,8 @@ A Simple Calculator with Dark & Light Mode UI. Which include Addition, Substract
 
 ## UI
 
-![image](https://user-images.githubusercontent.com/106422654/209904537-ec595a6c-8fbc-4a22-bf68-553b5643339c.png)
+![image](https://user-images.githubusercontent.com/106422654/209904607-aed559df-d0ff-4f8b-89f0-9a271785d6a1.png)
 
-
-![image](https://user-images.githubusercontent.com/106422654/209904509-be05ecf2-3532-425a-82d5-2c5b5eb58db0.png)
+![image](https://user-images.githubusercontent.com/106422654/209904668-b7aa2eb9-c93c-42eb-8f21-96a2406337a1.png)
 
 
