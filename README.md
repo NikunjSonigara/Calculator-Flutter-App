@@ -1,16 +1,12 @@
-# cal_try
+# Calculator
 
-A new Flutter project.
+A Simple Calculator with Dark & Light Mode UI. Which include Addition, Substraction, Multiplication and Division. It also include other Functionalities Like sin, cos, mod, factorial, exponantial, etc. With Two Navigation UIs like is as Follows:
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/106422654/209904537-ec595a6c-8fbc-4a22-bf68-553b5643339c.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/106422654/209904509-be05ecf2-3532-425a-82d5-2c5b5eb58db0.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
